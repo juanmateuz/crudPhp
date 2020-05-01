@@ -43,7 +43,7 @@
 	 <body>
 		  <div class="container">
 			 <div  class="row">
-				     <h3 style="text-align:center">MODIFICAR REGISTRO</h3>
+				     <h3 style="text-align:center">MODIFICAR REGISTRO PERSONA</h3>
 			    </div>
 			
 			 <form class="form-horizontal" method="POST" action="update.php" enctype="multipart/form-data" autocomplete="off">
