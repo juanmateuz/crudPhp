@@ -54,7 +54,7 @@ require 'conexion.php';
 		
 		<div class="container">
 			<div class="row">
-				<h2 style="text-align:center">Curso de PHP y MySQL</h2>
+				<h2 style="text-align:center">Curso de PHP y MySQL Con Imagenes</h2>
 			</div>
 			
 			<div class="row">
