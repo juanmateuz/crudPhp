@@ -58,7 +58,7 @@ require 'conexion.php';
 			</div>
 			
 			<div class="row">
-				<a href="nuevo.php" class="btn btn-primary">Nuevo Registro P</a>
+				<a href="nuevo.php" class="btn btn-primary">Nuevo Registro Test</a>
 			</div>
 			
 			<br>
