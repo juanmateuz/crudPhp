@@ -67,7 +67,7 @@ require 'conexion.php';
 			
 			<br>
 			<div class="row">
-				<a href="nuevo.php" class="btn btn-success">Otro Registro </a>
+				<a href="nuevo.php" class="btn btn-success">Verde Registro </a>
 			</div>
 			
 			
