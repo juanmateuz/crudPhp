@@ -58,10 +58,14 @@ require 'conexion.php';
 			</div>
 			
 			<div class="row">
-				<a href="nuevo.php" class="btn btn-primary">Nuevo Registro Test</a>
+				<a href="nuevo.php" class="btn btn-primary">Nuevo Registro De Documentos</a>
+			</div>
+			<br>
+			<div class="row">
+				<a href="nuevo.php" class="btn btn-danger">Nuevo Registro </a>
 			</div>
 			
-			<br>
+			
 			
 			<div class="row table-responsive">
 				<table class="table table-striped">
