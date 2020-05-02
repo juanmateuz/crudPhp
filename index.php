@@ -65,6 +65,11 @@ require 'conexion.php';
 				<a href="nuevo.php" class="btn btn-danger">Nuevo Registro </a>
 			</div>
 			
+			<br>
+			<div class="row">
+				<a href="nuevo.php" class="btn btn-success">Otro Registro </a>
+			</div>
+			
 			
 			
 			<div class="row table-responsive">
